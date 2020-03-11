@@ -1,0 +1,10 @@
+C:\Users\metea\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\metea\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\metea\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\metea\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\metea\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\metea\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\metea\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\metea\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.Form2.resources
